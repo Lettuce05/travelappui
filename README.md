@@ -11,6 +11,6 @@ https://user-images.githubusercontent.com/61034923/128933714-622b4764-6330-440a-
 
 
 ## Screenshots
-<img src="https://github.com/Lettuce05/finask-onboardui/blob/main/finask-screenshots/Screen1.PNG" width=300 alt="Screen1">
-<img src="https://github.com/Lettuce05/finask-onboardui/blob/main/finask-screenshots/Screen1b.PNG" width=300 alt="Screen1b">
-<img src="https://github.com/Lettuce05/finask-onboardui/blob/main/finask-screenshots/Screen2.PNG" width=300 alt="Screen2">
+<img src="https://github.com/Lettuce05/travelappui/blob/main/screenshots/Screen1.PNG" width=300 alt="Screen1">
+<img src="https://github.com/Lettuce05/travelappui/blob/main/screenshots/Screen1b.PNG" width=300 alt="Screen1b">
+<img src="https://github.com/Lettuce05/travelappui/blob/main/screenshots/Screen2.PNG" width=300 alt="Screen2">
